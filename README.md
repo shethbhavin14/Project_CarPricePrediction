@@ -1,4 +1,4 @@
-# project-carpricepred
+# Project_CarPricePrediction
 
 This is a personal project based on car price prediction.
 
