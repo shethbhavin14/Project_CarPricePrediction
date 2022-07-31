@@ -10,5 +10,6 @@ Reference: YouTube, Stack OverFlow.
 
 Project is implemented from the scratch.
 Flask is used to create web application for better access.
-
+Used Random Forest Regressor Model for the best results.
+Plotted graph to check the minimum error between the test model and the predictions.
 Skills Required: python, flask, pandas, numpy, jupyter notebook, scikit-learn, seaborn, pickle, matplotlib.
