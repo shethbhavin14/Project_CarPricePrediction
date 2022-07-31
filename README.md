@@ -1,7 +1,7 @@
 # Project_CarPricePrediction
 
 This is a personal project based on price prediction of cars after a certain years.
-Data is analyzed, manipulated, tranformed and visualized into easy readable graphs like heatmap.
+Data is analyzed, manipulated, transformed and visualized into easy readable graphs like heat map.
 It determines the correlation between the columns.
 The price of the car can be predicted based on it's value over the years.
 
