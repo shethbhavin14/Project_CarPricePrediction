@@ -8,7 +8,7 @@ The price of the car can be predicted based on it's value over the years.
 Source of Database: Kaggle.
 Reference: YouTube, Stack OverFlow.
 
-Project is implemented from the sratch.
+Project is implemented from the scratch.
 Flask is used to create web application for better access.
 
 Skills Required: python, flask, pandas, numpy, jupyter notebook, scikit-learn, seaborn, pickle, matplotlib.
